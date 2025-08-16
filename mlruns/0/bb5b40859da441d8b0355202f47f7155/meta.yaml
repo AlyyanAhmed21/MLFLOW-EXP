@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Projects/MLflow_Project/mlruns/0/bb5b40859da441d8b0355202f47f7155/artifacts
+end_time: 1755380158809
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb5b40859da441d8b0355202f47f7155
+run_name: dazzling-rook-473
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755380148479
+status: 3
+tags: []
+user_id: LENOVO
